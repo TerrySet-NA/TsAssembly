@@ -1,0 +1,11 @@
+{
+  "type": "PANE_EDGE",
+  "faces": [
+    "all"
+  ],
+  "texture": "light_blue_stained_glass_pane_light_blue_stained_glass_pane_top_composite",
+  "match_sprite": "minecraft:block/light_blue_stained_glass_pane_top",
+  "target_blocks": [
+    "minecraft:light_blue_stained_glass_pane"
+  ]
+}

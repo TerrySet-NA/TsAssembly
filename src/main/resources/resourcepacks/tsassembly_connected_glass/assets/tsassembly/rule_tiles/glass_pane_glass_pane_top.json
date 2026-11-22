@@ -1,0 +1,11 @@
+{
+  "type": "PANE_EDGE",
+  "faces": [
+    "all"
+  ],
+  "texture": "glass_pane_glass_pane_top_composite",
+  "match_sprite": "minecraft:block/glass_pane_top",
+  "target_blocks": [
+    "minecraft:glass_pane"
+  ]
+}

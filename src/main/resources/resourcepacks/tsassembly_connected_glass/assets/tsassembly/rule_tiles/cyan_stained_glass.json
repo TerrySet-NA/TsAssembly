@@ -1,0 +1,12 @@
+{
+  "type": "COMPOSITE",
+  "faces": [
+    "all"
+  ],
+  "texture": "cyan_stained_glass_composite",
+  "match_sprite": "minecraft:block/cyan_stained_glass",
+  "target_blocks": [
+    "minecraft:cyan_stained_glass", 
+    "minecraft:cyan_stained_glass_pane"
+  ]
+}

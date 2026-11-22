@@ -1,0 +1,12 @@
+{
+  "type": "COMPOSITE",
+  "faces": [
+    "all"
+  ],
+  "texture": "black_stained_glass_composite",
+  "match_sprite": "minecraft:block/black_stained_glass",
+  "target_blocks": [
+    "minecraft:black_stained_glass", 
+    "minecraft:black_stained_glass_pane"
+  ]
+}

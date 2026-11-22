@@ -1,0 +1,24 @@
+{
+  "pack.tsassembly.builtin": " (Built-in)",
+  "pack.tsassembly.glass_pack_title": "TsAssembly Connected Glass Pack",
+
+  "tsassembly.configuration.section.rendering": "TsAssembly Rendering & Compatibility",
+  "tsassembly.configuration.relative_position_blocks": "Relative Position Evaluated Blocks",
+  "tsassembly.configuration.enable_fake_cull_blocks": "Enable Dual-Sided Rendering (FakeCull)",
+  "tsassembly.configuration.fake_cull_blocks": "FakeCull Backface Blocks",
+  "tsassembly.configuration.invert_backface_blocks": "Backface UV De-Mirroring Blocks",
+  "tsassembly.configuration.compatible_3d_packs": "Compatible 3D Resource Packs",
+  "tsassembly.configuration.pack_block_exclusions": "Resource Pack Model Rules",
+
+  "tsassembly.configuration.enable_cull_inward_faces": "Enable Inward-Facing Geometry Culling",
+  "tsassembly.configuration.cull_inward_face_blocks": "Inward Face Culled Blocks",
+  "tsassembly.configuration.cull_facing_blocks": "Facing Neighbor Culled Blocks",
+  "tsassembly.configuration.cull_facing_incomplete_blocks": "Cull When Facing Incomplete Blocks",
+  "tsassembly.configuration.cull_facing_fully_occluded": "Cull Facing Fully Flush-Occluded Faces (Global)",
+  "tsassembly.configuration.cull_facing_fully_occluded_blacklist": "Fully Flush-Occluded Culling Blacklist", 
+  "tsassembly.configuration.cull_same_block_faces": "Enable Same-Block Internal Face Culling",
+  "tsassembly.configuration.cull_same_block_list": "Same-Block Internal Face Culled Blocks",
+
+  "command.tsassembly.export.success": "[Assembly] Successfully exported %2$s set(s) of %3$s rule template(s) for %1$s to: resourcepacks/%4$s",
+  "command.tsassembly.export.failed": "[TsAssembly] Export failed: %s"
+}

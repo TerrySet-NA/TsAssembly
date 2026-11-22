@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ts.assembly.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "SpriteContentsAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "PANE_EDGE",
+  "faces": [
+    "all"
+  ],
+  "texture": "orange_stained_glass_pane_orange_stained_glass_pane_top_composite",
+  "match_sprite": "minecraft:block/orange_stained_glass_pane_top",
+  "target_blocks": [
+    "minecraft:orange_stained_glass_pane"
+  ]
+}

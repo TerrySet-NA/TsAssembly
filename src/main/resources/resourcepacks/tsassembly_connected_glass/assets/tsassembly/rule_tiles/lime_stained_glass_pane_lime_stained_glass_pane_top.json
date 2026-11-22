@@ -1,0 +1,11 @@
+{
+  "type": "PANE_EDGE",
+  "faces": [
+    "all"
+  ],
+  "texture": "lime_stained_glass_pane_lime_stained_glass_pane_top_composite",
+  "match_sprite": "minecraft:block/lime_stained_glass_pane_top",
+  "target_blocks": [
+    "minecraft:lime_stained_glass_pane"
+  ]
+}

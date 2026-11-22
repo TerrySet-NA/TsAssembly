@@ -1,0 +1,24 @@
+{
+  "pack.tsassembly.builtin": " (內建)",
+  "pack.tsassembly.glass_pack_title": "TsAssembly 玻璃連接材質包",
+
+  "tsassembly.configuration.section.rendering": "TsAssembly 渲染與相容設定",
+  "tsassembly.configuration.relative_position_blocks": "【相對位置判定】方塊清單",
+  "tsassembly.configuration.enable_fake_cull_blocks": "【背面貼圖】允許雙面渲染 (FakeCull)",
+  "tsassembly.configuration.fake_cull_blocks": "【背面貼圖】補面方塊清單",
+  "tsassembly.configuration.invert_backface_blocks": "【背面貼圖反轉】解除鏡像方塊清單",
+  "tsassembly.configuration.compatible_3d_packs": "【兼容】3D 資源包支援清單",
+  "tsassembly.configuration.pack_block_exclusions": "【資源包方塊規則】去除與鎖定",
+
+  "tsassembly.configuration.enable_cull_inward_faces": "【剔除朝內面】啟用幾何朝內貼圖剔除",
+  "tsassembly.configuration.cull_inward_face_blocks": "【剔除朝內面】目標方塊清單 (支援 #tag)",
+  "tsassembly.configuration.cull_facing_blocks": "【相鄰面剔除】目標方塊清單 (支援 #tag)",
+  "tsassembly.configuration.cull_facing_incomplete_blocks": "【相鄰面剔除】面對不完整方塊也剔除",
+  "tsassembly.configuration.cull_facing_fully_occluded": "【相鄰面剔除】完全遮蔽貼合面剔除 (全域生效)",
+  "tsassembly.configuration.cull_facing_fully_occluded_blacklist": "【完全遮蔽貼合剔除】黑名單 (支援 #tag)", 
+  "tsassembly.configuration.cull_same_block_faces": "【同方塊接觸面剔除】啟用同方塊內部剔除",
+  "tsassembly.configuration.cull_same_block_list": "【同方塊接觸面剔除】目標方塊清單 (支援 #tag)",
+
+  "command.tsassembly.export.success": "[Assembly] 成功為 %s 匯出 %s 組 %s 規則模板至: resourcepacks/%s",
+  "command.tsassembly.export.failed": "[TsAssembly] 匯出失敗: %s"
+}

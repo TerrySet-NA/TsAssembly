@@ -1,0 +1,11 @@
+{
+  "type": "PANE_EDGE",
+  "faces": [
+    "all"
+  ],
+  "texture": "yellow_stained_glass_pane_yellow_stained_glass_pane_top_composite",
+  "match_sprite": "minecraft:block/yellow_stained_glass_pane_top",
+  "target_blocks": [
+    "minecraft:yellow_stained_glass_pane"
+  ]
+}

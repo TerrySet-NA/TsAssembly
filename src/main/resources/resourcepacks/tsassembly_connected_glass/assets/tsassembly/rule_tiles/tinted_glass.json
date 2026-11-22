@@ -1,0 +1,11 @@
+{
+  "type": "COMPOSITE",
+  "faces": [
+    "all"
+  ],
+  "texture": "tinted_glass_composite",
+  "match_sprite": "minecraft:block/tinted_glass",
+  "target_blocks": [
+    "minecraft:tinted_glass"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "COMPOSITE",
+  "faces": [
+    "all"
+  ],
+  "texture": "orange_stained_glass_composite",
+  "match_sprite": "minecraft:block/orange_stained_glass",
+  "target_blocks": [
+    "minecraft:orange_stained_glass", 
+    "minecraft:orange_stained_glass_pane"
+  ]
+}

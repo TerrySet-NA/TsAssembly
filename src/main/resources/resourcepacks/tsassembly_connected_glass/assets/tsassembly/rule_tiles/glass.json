@@ -1,0 +1,12 @@
+{
+  "type": "COMPOSITE",
+  "faces": [
+    "all"
+  ],
+  "texture": "glass_composite",
+  "match_sprite": "minecraft:block/glass",
+  "target_blocks": [
+    "minecraft:glass", 
+    "minecraft:glass_pane"
+  ]
+}

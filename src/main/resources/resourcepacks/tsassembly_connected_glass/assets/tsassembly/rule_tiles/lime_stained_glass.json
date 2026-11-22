@@ -1,0 +1,12 @@
+{
+  "type": "COMPOSITE",
+  "faces": [
+    "all"
+  ],
+  "texture": "lime_stained_glass_composite",
+  "match_sprite": "minecraft:block/lime_stained_glass",
+  "target_blocks": [
+    "minecraft:lime_stained_glass", 
+    "minecraft:lime_stained_glass_pane"
+  ]
+}

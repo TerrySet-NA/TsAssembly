@@ -1,0 +1,12 @@
+{
+  "type": "COMPOSITE",
+  "faces": [
+    "all"
+  ],
+  "texture": "white_stained_glass_composite",
+  "match_sprite": "minecraft:block/white_stained_glass",
+  "target_blocks": [
+    "minecraft:white_stained_glass", 
+    "minecraft:white_stained_glass_pane"
+  ]
+}

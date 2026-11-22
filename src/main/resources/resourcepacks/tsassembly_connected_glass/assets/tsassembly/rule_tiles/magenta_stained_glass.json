@@ -1,0 +1,12 @@
+{
+  "type": "COMPOSITE",
+  "faces": [
+    "all"
+  ],
+  "texture": "magenta_stained_glass_composite",
+  "match_sprite": "minecraft:block/magenta_stained_glass",
+  "target_blocks": [
+    "minecraft:magenta_stained_glass", 
+    "minecraft:magenta_stained_glass_pane"
+  ]
+}

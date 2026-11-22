@@ -1,0 +1,11 @@
+{
+  "type": "PANE_EDGE",
+  "faces": [
+    "all"
+  ],
+  "texture": "pink_stained_glass_pane_pink_stained_glass_pane_top_composite",
+  "match_sprite": "minecraft:block/pink_stained_glass_pane_top",
+  "target_blocks": [
+    "minecraft:pink_stained_glass_pane"
+  ]
+}
